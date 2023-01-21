@@ -82,7 +82,7 @@ public class Database extends AppCompatActivity {
                         e.printStackTrace();
                     }
                     String[] words = responseBody.split("[\r\n]+");
-                    for(int i = 0; i <= words.length-233400; i++){
+                    for(int i = 0; i <= words.length; i++){
                         String wordResponse = words[i];
                         if(wordResponse.contains("'")){
                             String wordCorrect = wordResponse.replace("'", "");
