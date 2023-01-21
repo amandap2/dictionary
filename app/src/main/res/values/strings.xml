@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="word_list">Word List</string>
+    <string name="history">History</string>
+    <string name="favorites">Favorites</string>
+    <string name="word">Word</string>
+    <string name="wordhowtospell">WordHowToSpell</string>
+    <string name="favoritar">Favoritar</string>
+    <string name="voltar">Voltar</string>
+</resources>
